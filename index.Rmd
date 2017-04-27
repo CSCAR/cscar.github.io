@@ -5,7 +5,8 @@ output:
     toc: true
     toc_float: true
     toc_depth: 3
-    favicon: signature-vertical-informal.png
+    logo: signature-social.png
+    favicon: signature-social.png
 css: cscar.css
 ---
 

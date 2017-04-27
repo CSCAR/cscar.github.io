@@ -5,6 +5,7 @@ output:
     toc: true
     toc_float: true
     toc_depth: 3
+    favicon: signature-vertical-informal.png
 css: cscar.css
 ---
 
@@ -48,3 +49,5 @@ Here are various resources we think people we work with might find useful. Topic
 ## Wiki
 
 Right now we're using a wiki for this information. [Link](https://github.com/CSCAR/Resources/wiki)
+
+<br>

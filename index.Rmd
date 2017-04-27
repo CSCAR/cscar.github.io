@@ -1,5 +1,5 @@
 ---
-title: "<img src='signature-vertical-informal.png' style='display:block; margin: 0 auto;' width=50%>"
+title: "<img src='signature-vertical-informal.png' style='display:block; margin: 0 auto;' width=50%> <br> CSCAR" 
 output:
   html_document:
     toc: true
@@ -9,22 +9,20 @@ css: cscar.css
 ---
 
 
-# CSCAR 
-
 CSCAR provides consulting services and training opportunities in data science, statistics, and advanced research computation.  This used for CSCAR resources, especially those geared toward helping collaborators and clients learn new tools for research.
 
 
-# Members
+# Consultants
 
-The following is a list of the consultants that are on GitHub with links to their GitHub presence.  For a list of all consultants see the [main CSCAR website](http://cscar.research.umich.edu/about/).
-
-[Michael Clark](https://github.com/m-clark)
-
-[Marcio Mourao](https://github.com/marcio-mourao)
+The following is a list of the consultants that are on GitHub with links to their GitHub presence.  For a list of **all** consultants see the [main CSCAR website](http://cscar.research.umich.edu/about/).
 
 [Alex Cao](https://github.com/caocscar)
 
+[Michael Clark](https://github.com/m-clark)
+
 [Josh Errickson](https://github.com/josherrickson)
+
+[Marcio Mourao](https://github.com/marcio-mourao)
 
 [Kerby Shedden](https://github.com/marcio-mourao/)
 

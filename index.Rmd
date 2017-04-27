@@ -36,7 +36,7 @@ CSCAR does a lot of workshops. Like really a lot. This is where you can find lin
 
 [Michael Clark](https://m-clark.github.io/workshops/) R, Stan
 
-[Marcio Mourao](https://marcio-mourao.github.io/) Python
+[Marcio Mourao](https://marcio-mourao.github.io/) Python, Matlab
 
 [Kerby Shedden](https://kshedden.github.io/) Python, Go
 

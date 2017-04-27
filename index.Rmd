@@ -1,4 +1,5 @@
 ---
+title: "<img src='signature-vertical-informal.png' style='display:block; margin: 0 auto;' width=50%>"
 output:
   html_document:
     toc: true
@@ -8,10 +9,43 @@ css: cscar.css
 ---
 
 
-# CSCAR Stuff
+# CSCAR 
+
+CSCAR provides consulting services and training opportunities in data science, statistics, and advanced research computation.  This used for CSCAR resources, especially those geared toward helping collaborators and clients learn new tools for research.
+
 
 # Members
 
+The following is a list of the consultants that are on GitHub with links to their GitHub presence.  For a list of all consultants see the [main CSCAR website](http://cscar.research.umich.edu/about/).
+
+[Michael Clark](https://github.com/m-clark)
+
+[Marcio Mourao](https://github.com/marcio-mourao)
+
+[Alex Cao](https://github.com/caocscar)
+
+[Josh Errickson](https://github.com/josherrickson)
+
+[Kerby Shedden](https://github.com/marcio-mourao/)
+
+
+
 # Workshops
 
+CSCAR does a lot of workshops. Like really a lot. This is where you can find links to web pages/sites of CSCAR members that house materials for workshops, like slides, code etc.  Listed are the primary programming languages covered.
+
+
+[Michael Clark](https://m-clark.github.io/workshops/) R, Stan
+
+[Marcio Mourao](https://marcio-mourao.github.io/) Python
+
+[Kerby Shedden](https://kshedden.github.io/) Python, Go
+
+
 # Resources
+
+Here are various resources we think people we work with might find useful. Topics regard specific programming languages, statistical techniques etc.
+
+## Wiki
+
+Right now we're using a wiki for this information. [Link](https://github.com/CSCAR/Resources/wiki)

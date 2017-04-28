@@ -17,7 +17,7 @@ This site is used for CSCAR resources, especially those geared toward helping co
 
 # Consultants
 
-The following is a list of the consultants that are on GitHub with links to their GitHub presence.  For a list of **all** consultants see the [main CSCAR website](http://cscar.research.umich.edu/about/).
+The following is a list of the consultants who are active on GitHub.  For a list of **all** consultants see the [main CSCAR website](http://cscar.research.umich.edu/about/).
 
 [Alex Cao](https://github.com/caocscar)
 
@@ -30,10 +30,9 @@ The following is a list of the consultants that are on GitHub with links to thei
 [Kerby Shedden](https://github.com/marcio-mourao/)
 
 
-
 # Workshops
 
-CSCAR does a lot of workshops. Like really a lot. This is where you can find links to web pages/sites of CSCAR members that house materials for workshops, like slides, code etc.  Listed are the primary programming languages covered.
+CSCAR does a lot of workshops. Like, *really* a lot. This is where you can find web pages/sites of CSCAR members that specifically house materials for workshops, like slides, code etc.  Listed are the primary programming languages covered.
 
 
 [Michael Clark](https://m-clark.github.io/workshops/) R, Stan

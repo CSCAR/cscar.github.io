@@ -27,7 +27,7 @@ The following is a list of the consultants who are active on [GitHub](https://gi
 
 [Marcio Mourao](https://github.com/marcio-mourao)
 
-[Kerby Shedden](https://github.com/marcio-mourao/)
+[Kerby Shedden](https://github.com/kshedden)
 
 
 # Workshops

@@ -1,0 +1,22 @@
+name: "CSCAR"
+navbar:
+  title: "CSCAR"
+  left:
+#    - text: "Home"
+#      href: index.html
+    - text: "Consultants"
+      href: consultants.html
+      icon: fa-info
+    - text: "Workshops"
+      href: workshops.html
+      icon: fa-code
+    - text: "Resources"
+      href: resources.html
+      icon: fa-database
+output:
+  html_document:
+#    theme: cosmo
+#    highlight: textmate
+#    include:
+#      after_body: footer.html
+    css: cscar.css

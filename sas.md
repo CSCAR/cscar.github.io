@@ -1,4 +1,6 @@
-# SAS Resources
+---
+title: SAS Resources
+---
 
 ## Learning SAS
 

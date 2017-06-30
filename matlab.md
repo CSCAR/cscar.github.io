@@ -1,6 +1,9 @@
-# Learning MATLAB
+---
+title: MATLAB Resources
+---
 
-## MATLAB Resources
+
+## Learning MATLAB
 
 This page contains a few resources to learn MATLAB. Most links are for MathWorks pages.
 

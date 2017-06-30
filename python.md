@@ -1,4 +1,6 @@
-# Python resources
+---
+title: "Python resources"
+---
 
 These Python resources will be specific to statistical programming.
 

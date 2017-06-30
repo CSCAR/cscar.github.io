@@ -1,4 +1,6 @@
-# SEM resources
+---
+title: SEM resources
+---
 
 
 

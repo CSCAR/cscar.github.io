@@ -1,4 +1,6 @@
-# Stata Resources
+---
+title: Stata Resources
+---
 
 ## Learning Stata
 

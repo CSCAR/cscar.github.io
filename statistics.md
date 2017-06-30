@@ -1,4 +1,6 @@
-# General Statistical Resources
+---
+title: "General Statistical Resources"
+---
 
 This is a list of sites etc. that have some resources statistics in general or for multiple statistical programs or programming languages. For specific programs, see the program-specific wiki page.
 

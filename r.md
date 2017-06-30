@@ -1,7 +1,7 @@
 ---
 title: "R resources"
 ---
-# R resources
+
 
 ## Learning R
 

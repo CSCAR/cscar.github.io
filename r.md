@@ -1,5 +1,37 @@
 ---
 title: "R resources"
+navbar:
+  title: "CSCAR"
+  left:
+#    - text: "Home"
+#      href: index.html
+    - text: "Consultants"
+      href: consultants.html
+      icon: fa-info
+    - text: "Workshops"
+      href: workshops.html
+      icon: fa-code
+    - text: "Resources"
+      href: resources.html
+      icon: fa-database
+      menu: 
+        - text: "CSCAR"
+          href: cscar.html
+        - text: "Statistics"
+          href: statistics.html
+        - text: "R"
+          href: r.html
+        - text: "Python"
+          href: python.html
+        - text: "Matlab"
+          href: matlab.html
+        - text: "Stata"
+          href: stata.html
+        - text: "SEM"
+          href: sem.html
+        - text: "SAS"
+          href: sas.html
+css: cscar.css
 ---
 
 

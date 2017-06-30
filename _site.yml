@@ -15,21 +15,21 @@ navbar:
       icon: fa-database
       menu: 
         - text: "CSCAR"
-        - href: cscar.md
+          href: cscar.html
         - text: "Statistics"
-        - href: statistics.html
+          href: statistics.html
         - text: "R"
-        - href: r.html
+          href: r.html
         - text: "Python"
-        - href: python.md
+          href: python.html
         - text: "Matlab"
-        - href: matlab.md
+          href: matlab.html
         - text: "Stata"
-        - href: stata.md
+          href: stata.html
         - text: "SEM"
-        - href: sem.md
+          href: sem.html
         - text: "SAS"
-        - href: sas.md
+          href: sas.html
 output:
   html_document:
 #    theme: cosmo

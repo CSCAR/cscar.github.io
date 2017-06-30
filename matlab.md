@@ -36,4 +36,4 @@ This page contains a few resources to learn MATLAB. Most links are for MathWorks
 
 ### Others
 
-[MATLAB Products] (https://www.mathworks.com/products.html)
+[MATLAB Products](https://www.mathworks.com/products.html)

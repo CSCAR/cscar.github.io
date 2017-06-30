@@ -28,7 +28,7 @@ title: SEM resources
 
 ## General
 
-[CSCAR workshop](http://m-clark.github.io/docs/sem/): webnotes for the workshop content and beyond 
+[CSCAR workshop](http://m-clark.github.io/docs/sem/): web notes for the workshop content and beyond 
 
 [Personality Project](http://www.personality-project.org/index.html): William Revelle's site for psychometrics
 

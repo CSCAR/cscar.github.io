@@ -20,7 +20,7 @@ CSCAR does a lot of [workshops](http://cscar.research.umich.edu/events/category/
 
 ## Data Science Skills Series
 
-We conduct the *Data Science Skills Series*, which are typically two-hour free worskhops on any number of topics. Here are some of the topics that have been covered or soon will be.
+We conduct the *Data Science Skills Series*, which are typically two-hour free workshops on any number of topics. Here are some of the topics that have been covered or soon will be.
 
 ### R
 
@@ -48,7 +48,7 @@ CSCAR  gives paid for workshops that are longer lasting, often taking place over
 
 Introduction to Statistical Analysis in R
 
-Several introductions to statisital packages: SAS, SPSS, Stata
+Several introductions to statistical packages: SAS, SPSS, Stata
 
 Mixed Models in SPSS
 

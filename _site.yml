@@ -17,9 +17,9 @@ navbar:
         - text: "CSCAR"
         - href: cscar.md
         - text: "Statistics"
-        - href: statistics.md
+        - href: statistics.html
         - text: "R"
-        - href: r.md
+        - href: r.html
         - text: "Python"
         - href: python.md
         - text: "Matlab"

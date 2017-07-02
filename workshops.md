@@ -11,6 +11,8 @@ CSCAR does a lot of [workshops](http://cscar.research.umich.edu/events/category/
 
 [Michael Clark](https://m-clark.github.io/workshops/) R, Stan
 
+[Josh Errickson](https://github.com/josherrickson) R, Stata
+
 [James Henderson](https://github.com/jbhender/Workshops) R
 
 [Marcio Mourao](https://marcio-mourao.github.io/) Python, Matlab

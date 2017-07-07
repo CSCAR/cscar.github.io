@@ -15,8 +15,9 @@ Here you will find some info related to CSCAR specifically.
 
 [Marcio Mourao](https://github.com/marcio-mourao)
 
-### Friends of CSCAR
 
+<br>
+<br>
 
 ## Getting Help
 

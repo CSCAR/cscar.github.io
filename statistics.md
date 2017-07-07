@@ -4,7 +4,8 @@ title: "General Statistical Resources"
 
 This is a list of sites etc. that have some resources statistics in general or for multiple statistical programs or programming languages. For specific programs, see the program-specific wiki page.
 
-
+<br>
+<br>
 ## General
 
 [Cross-validated](http://stats.stackexchange.com/): question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
@@ -20,37 +21,47 @@ This is a list of sites etc. that have some resources statistics in general or f
 
 [Jupyter](http://jupyter.org/) Web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more. Currently for Python, R, and Julia.
 
-
+<br>
+<br>
 ## Mixed Models
 
 [Mixed Model FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
 
-
+<br>
+<br>
 ## Machine learning
 
 [Statistical Learning Glossary](http://alumni.media.mit.edu/~tpminka/statlearn/glossary/glossary.html)
 ['Awesome list' of freebies](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
+<br>
+<br>
 ## Power Calculations
 
 [Effect Size Conventions](http://core.ecu.edu/psyc/wuenschk/docs30/EffectSizeConventions.pdf) Some notes on choices of small vs large effect sizes for use in power calculations.
 
 [Beyond Significance Testing](http://www.apa.org/pubs/books/4316151.aspx) Rex Kline's text on issues with significance testing, how to do power calculations, and calculate effect size in a variety of settings.
 
+<br>
+<br>
 ## Missing Data
 
 [When is complete case analysis unbiased?](http://thestatsgeek.com/2013/07/06/when-is-complete-case-analysis-unbiased/)
 
+<br>
+<br>
 ## Structural Equation Modeling
 
 See the [SEM section](https://github.com/CSCAR/Resources/wiki/SEM).
 
-
+<br>
+<br>
 ## Suveys
 
 [How Big of a Problem is Analytic Error in Secondary Analyses of Survey Data?](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0158120) West et al. (2016)
 
-
+<br>
+<br>
 ## Miscellaneous/Frequently Asked Questions
 
 [Oh no I got the wrong sign](http://www.stat.columbia.edu/~gelman/stuff_for_blog/oh_no_I_got_the_wrong_sign.pdf)

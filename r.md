@@ -52,7 +52,8 @@ CSCAR Consultant Michael Clark's [Workshops](https://m-clark.github.io/workshops
 
 [Use R series](http://mirlyn.lib.umich.edu/Search/Home?lookfor=%22%20Use%20R!%22&type=series) (link to UM library) 
 
-
+<br>
+<br>
 ## Packages
 
 [RStart](https://github.com/rstudio/RStartHere): useful, well-documented, well-coded packages
@@ -69,7 +70,8 @@ CSCAR Consultant Michael Clark's [Workshops](https://m-clark.github.io/workshops
 
 [Tidyverse](http://tidyverse.org/): an overview of Hadley Wickham's packages and related.
 
-
+<br>
+<br>
 ## Visualization
 
 [ggplot2](http://ggplot2.tidyverse.org/index.html)
@@ -78,11 +80,14 @@ CSCAR Consultant Michael Clark's [Workshops](https://m-clark.github.io/workshops
 
 [htmlwidgets](http://www.htmlwidgets.org/)
 
-
+<br>
+<br>
 ## Regular Expressions in R
 
 [via stringi package](https://www.rdocumentation.org/packages/stringi/versions/1.1.1/topics/stringi-search-regex)
 
+<br>
+<br>
 ## High Performance Computing
 
 [Task View on HPC](https://www.r-pkg.org/ctv/HighPerformanceComputing)
@@ -128,7 +133,8 @@ CSCAR Consultant Michael Clark's [Workshops](https://m-clark.github.io/workshops
 
 [Microsoft R Open](https://mran.revolutionanalytics.com/)
 
-
+<br>
+<br>
 ## Other
 
 [Rstudio](https://www.rstudio.com/): Make your R efforts easier and expand them with the most popular IDE for R. Developers provide many useful packages as well.

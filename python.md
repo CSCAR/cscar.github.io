@@ -4,7 +4,8 @@ title: "Python resources"
 
 These Python resources will be specific to statistical programming.
 
-
+<br>
+<br>
 ## Learning Python
 
 ### Web
@@ -21,7 +22,8 @@ These Python resources will be specific to statistical programming.
 [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
 
 
-
+<br>
+<br>
 ## Modules
 
 [Pandas](http://pandas.pydata.org/)
@@ -30,7 +32,8 @@ These Python resources will be specific to statistical programming.
 
 [scikit-learn](http://scikit-learn.org/stable/)
 
-
+<br>
+<br>
 ## Visualization
 
 [matplotlib](http://matplotlib.org/)
@@ -41,7 +44,8 @@ These Python resources will be specific to statistical programming.
 
 [seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/)
 
-
+<br>
+<br>
 ## Other
 
 ### IDE

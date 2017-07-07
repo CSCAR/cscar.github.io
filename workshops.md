@@ -19,7 +19,8 @@ CSCAR does a lot of [workshops](http://cscar.research.umich.edu/events/category/
 
 [Kerby Shedden](https://kshedden.github.io/) Python, Go
 
-
+<br>
+<br>
 ## Data Science Skills Series
 
 We conduct the *Data Science Skills Series*, which are typically two-hour free workshops on any number of topics. Here are some of the topics that have been covered or soon will be.
@@ -43,7 +44,8 @@ Introduction to Matlab, Intermediate Matlab
 GIS and spatial analysis, Introduction to GO, Intermediate GO. Note that ARC-TS (the high performance computing group) provides workshops specific to working with their environment (e.g. cluster computing).
 
 
-
+<br>
+<br>
 ## Traditional Workshops
 
 CSCAR  gives paid for workshops that are longer lasting, often taking place over multiple full or half days, and definitely hands on.    The following is a list of topics covered.

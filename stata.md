@@ -3,6 +3,9 @@ title: Stata Resources
 ---
 <br>
 <br>
+<br>
+
+
 ## Learning Stata
 
 ### Web
@@ -28,6 +31,7 @@ title: Stata Resources
 
 <br>
 <br>
+
 ## Other
 
 [Comparing the three variance estimators: OLS, robust, and robust cluster](http://www.stata.com/support/faqs/statistics/standard-errors-and-vce-cluster-option/)

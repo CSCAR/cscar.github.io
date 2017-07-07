@@ -1,11 +1,17 @@
 ---
 title: "Python resources"
 ---
+<br>
+<br>
+<br>
+
+
 
 These Python resources will be specific to statistical programming.
 
 <br>
 <br>
+
 ## Learning Python
 
 ### Web
@@ -24,6 +30,7 @@ These Python resources will be specific to statistical programming.
 
 <br>
 <br>
+
 ## Modules
 
 [Pandas](http://pandas.pydata.org/)
@@ -34,6 +41,7 @@ These Python resources will be specific to statistical programming.
 
 <br>
 <br>
+
 ## Visualization
 
 [matplotlib](http://matplotlib.org/)
@@ -46,6 +54,7 @@ These Python resources will be specific to statistical programming.
 
 <br>
 <br>
+
 ## Other
 
 ### IDE

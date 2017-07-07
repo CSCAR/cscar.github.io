@@ -1,10 +1,11 @@
 ---
 title: SEM resources
 ---
-
-
 <br>
 <br>
+<br>
+
+
 ## Programming
 
 ### R
@@ -28,6 +29,7 @@ title: SEM resources
 
 <br>
 <br>
+
 ## General
 
 [CSCAR workshop](http://m-clark.github.io/docs/sem/): web notes for the workshop content and beyond 
@@ -46,6 +48,7 @@ title: SEM resources
 
 <br>
 <br>
+
 ## Books
 
 [Principles and Practice of Structural Equation Modeling](http://www.guilford.com/books/Principles-and-Practice-of-Structural-Equation-Modeling/Rex-Kline/9781462523344): classic guide

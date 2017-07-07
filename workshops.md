@@ -46,6 +46,7 @@ GIS and spatial analysis, Introduction to GO, Intermediate GO. Note that ARC-TS 
 
 <br>
 <br>
+
 ## Traditional Workshops
 
 CSCAR  gives paid for workshops that are longer lasting, often taking place over multiple full or half days, and definitely hands on.    The following is a list of topics covered.

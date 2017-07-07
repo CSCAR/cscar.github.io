@@ -14,6 +14,8 @@ This is a list of sites etc. that have some resources statistics in general or f
 
 [Cross-validated](http://stats.stackexchange.com/): question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.
 
+<br>
+<br>
 
 ## Statistical Programming
 
@@ -58,6 +60,7 @@ This is a list of sites etc. that have some resources statistics in general or f
 
 <br>
 <br>
+
 ## Structural Equation Modeling
 
 See the [SEM section](https://github.com/CSCAR/Resources/wiki/SEM).

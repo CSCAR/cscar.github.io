@@ -21,6 +21,7 @@ CSCAR does a lot of [workshops](http://cscar.research.umich.edu/events/category/
 
 <br>
 <br>
+
 ## Data Science Skills Series
 
 We conduct the *Data Science Skills Series*, which are typically two-hour free workshops on any number of topics. Here are some of the topics that have been covered or soon will be.

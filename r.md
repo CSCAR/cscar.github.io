@@ -51,17 +51,12 @@ CSCAR Consultant Michael Clark's [Workshops](https://m-clark.github.io/workshops
 
 [Comparison code to SAS, Stata, and SPSS (provided by CSCAR consultant Josh Errickson)](https://github.com/josherrickson/commoncode)
 
-<br>
-<br>
-
 ### Courses
 
 [Coursera](https://www.coursera.org/courses?languages=en&query=r)
 
 [Datacamp](https://www.datacamp.com/)
 
-<br>
-<br>
 
 ### Books
 

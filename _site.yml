@@ -37,4 +37,5 @@ output:
 #    include:
 #      after_body: footer.html
     css: cscar.css
+    favicon: favicon.ico
 output_dir: "."

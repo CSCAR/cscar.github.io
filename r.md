@@ -45,12 +45,23 @@ css: cscar.css
 
 [Swirl](http://swirlstats.com/)
 
-[R example repository](http://www.uni-kiel.de/psychologie/rexrepos/)
+[R example repository](http://www.dwoll.de/rexrepos/)
 
 CSCAR Consultant Michael Clark's [Workshops](https://m-clark.github.io/workshops) and [Documents](https://m-clark.github.io/documents) (all R-oriented, but some may be more conceptual)
 
 [Comparison code to SAS, Stata, and SPSS (provided by CSCAR consultant Josh Errickson)](https://github.com/josherrickson/commoncode)
 
+<br>
+<br>
+
+### Courses
+
+[Coursera](https://www.coursera.org/courses?languages=en&query=r)
+
+[Datacamp](https://www.datacamp.com/)
+
+<br>
+<br>
 
 ### Books
 

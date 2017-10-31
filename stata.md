@@ -20,9 +20,9 @@ title: Stata Resources
 
 [Stata/MP Performance Report](http://www.stata.com/statamp/statamp.pdf): Stata/MP is the multicore version of Stata available on FLUX. Particularly of interest is the table starting on page 17 which lists commands and how parallelized they are.
 
-[Internet Guide to Stata](http://wlm.userweb.mwn.de/Stata/) A good way to get started with Stata modeling basics and more.
+[Internet Guide to Stata](http://wlm.userweb.mwn.de/Stata/): A good way to get started with Stata modeling basics and more.
 
-
+[Social Science Computing Cooperative](https://www.ssc.wisc.edu/sscc/pubs/stat.htm): Various articles from basic to intermediate topics.
 
 ### Books
 

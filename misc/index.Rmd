@@ -27,5 +27,5 @@ This site is used for CSCAR resources, especially those geared toward helping co
 
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(cache=TRUE)
+knitr::opts_chunk$set(cache=F, cache.rebuild = T)
 ```

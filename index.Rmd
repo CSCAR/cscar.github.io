@@ -1,12 +1,5 @@
 ---
 title: "CSCAR"
-# output:
-#   html_document:
-#     toc: true
-#     toc_float: true
-#     toc_depth: 3
-#     logo: signature-social.png
-#     favicon: signature-social.png
 favicon: favicon.ico
 css: cscar.css
 ---
@@ -25,3 +18,7 @@ css: cscar.css
 This site is used for CSCAR resources, especially those geared toward helping collaborators and clients learn new tools for research.  It will house content primarily related to workshops, but also other things we might find useful to ourselves or our clients, and will be updated regularly.
 
 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=F, cache.rebuild = F)
+```

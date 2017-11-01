@@ -32,6 +32,8 @@ This is a list of sites etc. that have some resources statistics in general or f
 
 ## Mixed Models
 
+[Hierarchical Model Visualization](http://mfviz.com/hierarchical-models/)
+
 [Mixed Model FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
 
 <br>

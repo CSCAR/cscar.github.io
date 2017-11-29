@@ -67,6 +67,8 @@ CSCAR Consultant Michael Clark's [Workshops](https://m-clark.github.io/workshops
 
 ## Packages
 
+[RStudio pacakges]: some of the most popular packages out there
+
 [RStart](https://github.com/rstudio/RStartHere): useful, well-documented, well-coded packages
 
 [Awesome R](https://awesome-r.com/): an awesome list for R

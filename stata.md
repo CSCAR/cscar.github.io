@@ -24,6 +24,8 @@ title: Stata Resources
 
 [Social Science Computing Cooperative](https://www.ssc.wisc.edu/sscc/pubs/stat.htm): Various articles from basic to intermediate topics.
 
+
+
 ### Books
 
 [Stata Press](http://www.stata-press.com/)
@@ -37,4 +39,5 @@ title: Stata Resources
 [Comparing the three variance estimators: OLS, robust, and robust cluster](http://www.stata.com/support/faqs/statistics/standard-errors-and-vce-cluster-option/)
 
 [Marginal Effects- Rich Williams notes- 1](https://www3.nd.edu/~rwilliam/stats/Margins01.pdf)
+
 [Marginal Effects- Rich Williams notes- 2](https://www3.nd.edu/~rwilliam/stats/Margins02.pdf)

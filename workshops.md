@@ -19,6 +19,8 @@ CSCAR does a lot of [workshops](http://cscar.research.umich.edu/events/category/
 
 [Kerby Shedden](https://kshedden.github.io/) Python, Go
 
+[Alex Cao](https://github.com/caocscar) Python
+
 <br>
 <br>
 
@@ -50,13 +52,15 @@ GIS and spatial analysis, Introduction to GO, Intermediate GO. Note that ARC-TS 
 
 ## Traditional Workshops
 
-CSCAR  gives paid for workshops that are longer lasting, often taking place over multiple full or half days, and definitely hands on.    The following is a list of topics covered.
+CSCAR gives paid for workshops that are longer lasting, often taking place over multiple full or half days, and are definitely hands on.  The following is a list of topics covered.
 
 Introduction to Statistical Analysis in R
 
 Several introductions to statistical packages: SAS, SPSS, Stata
 
 Mixed Models in SPSS
+
+Mixed Models in R
 
 Introduction to survey design
 

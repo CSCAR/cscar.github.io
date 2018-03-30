@@ -41,3 +41,5 @@ title: Stata Resources
 [Marginal Effects- Rich Williams notes- 1](https://www3.nd.edu/~rwilliam/stats/Margins01.pdf)
 
 [Marginal Effects- Rich Williams notes- 2](https://www3.nd.edu/~rwilliam/stats/Margins02.pdf)
+
+[Working with Dates](https://web.stanford.edu/group/ssds/cgi-bin/drupal/files/Guides/Working%20with%20Dates%20and%20Times%20in%20Stata.pdf)

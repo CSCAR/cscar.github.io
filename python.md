@@ -20,6 +20,8 @@ These Python resources will be specific to statistical programming.
 
 [CSCAR Workshops- Marcio Mourao](https://marcio-mourao.github.io)
 
+[CSCAR Workshops- Alex Cao](https://github.com/caocscar)
+
 [100 Numpy Exercises](https://github.com/rougier/numpy-100)
 
 
@@ -63,3 +65,6 @@ These Python resources will be specific to statistical programming.
 
 [Anaconda](https://www.continuum.io/downloads)
 
+### Deep Learning
+
+[Keras](https://keras.io/)

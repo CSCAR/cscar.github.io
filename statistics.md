@@ -91,3 +91,5 @@ See the [SEM section](https://github.com/CSCAR/Resources/wiki/SEM).
 [Problems Caused by Categorizing Continuous Variables](http://biostat.mc.vanderbilt.edu/wiki/Main/CatContinuous)
 
 [How to Spot Visualization Lies](https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies/)
+
+[What are pseudo R-squareds?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-pseudo-r-squareds/) Describes how pseudo R-squareds come about, compares and contrasts the various versions, and describes their limitations.

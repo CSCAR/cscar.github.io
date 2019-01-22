@@ -46,6 +46,10 @@ title: SEM resources
 [web tool](http://www.quantpsy.org/rmsea/rmsea.htm) http://www.quantpsy.org/
 
 
+### Misc
+
+[Standardized coefficients greater than 1](misc/HowLargeCanaStandardizedCoefficientbe.pdf)
+
 <br>
 <br>
 

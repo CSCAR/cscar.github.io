@@ -38,9 +38,9 @@ title: Stata Resources
 
 [Comparing the three variance estimators: OLS, robust, and robust cluster](http://www.stata.com/support/faqs/statistics/standard-errors-and-vce-cluster-option/)
 
-[Marginal Effects- Rich Williams notes- 1](https://www3.nd.edu/~rwilliam/stats/Margins01.pdf)
+[Marginal Effects- Rich Williams notes- 1](https://www3.nd.edu/~rwilliam/stats3/Margins01.pdf)
 
-[Marginal Effects- Rich Williams notes- 2](https://www3.nd.edu/~rwilliam/stats/Margins02.pdf)
+[Marginal Effects- Rich Williams notes- 2](https://www3.nd.edu/~rwilliam/stats3/Margins02.pdf)
 
 [Marginal Effects- Rich Williams notes- 3](https://www3.nd.edu/~rwilliam/stats3/Margins03.pdf)
 

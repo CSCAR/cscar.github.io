@@ -1,24 +1,37 @@
 ---
-title: "CSCAR"
-favicon: favicon.ico
-css: cscar.css
+title: Consulting for Statistics, Computing, and  Analytics  Research
+description: |
+  Welcome to the CSCAR resources site. We hope you find some useful things here!
+output:
+  distill::distill_article:
+    self_contained: false
+site: distill::distill_website
+css: [cscar.css]
+listing: posts
 ---
-<br>
-<br>
-<br>
-
-<img src='img/signature-vertical-informal.png' style='display:block; margin: 0 auto;' width=25%> 
-
-<br>
-<br>
-<br>
-
-[CSCAR](http://cscar.research.umich.edu/) - Consulting for Statistics, Computation, & Analytics Research - is the consulting arm of the [Advanced Research Computing](http://arc.umich.edu/) group at the [University of Michigan](https://www.umich.edu/).  CSCAR provides consulting services and training opportunities in data science, statistics, and advanced research computation.  For more information about CSCAR visit the website.
-
-This site is used for CSCAR resources, especially those geared toward helping collaborators and clients learn new tools for research.  It will house content primarily related to workshops, but also other things we might find useful to ourselves or our clients, and will be updated regularly.
-
-
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(cache=F, cache.rebuild = F)
+knitr::opts_chunk$set(echo = FALSE, 
+                      dev.args=list(bg = 'transparent'), 
+                      # dev='svglite',                                
+                      # fig.align='center', 
+                      #out.width='75%', fig.asp=.75,                 
+                      cache.rebuild=F, cache=F)
+
+# Learn more about creating websites with Radix at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/radix/publish_website.html#github-pages
+
+library(tidyverse)
 ```
+
+<!-- Add headers to get some spacing -->
+
+#
+
+#
+
+<div style=""><img src="img/signature-vertical-informal.png" style="display:block; margin: 0 auto; width: 25%">
+</div>

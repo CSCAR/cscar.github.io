@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/",
+    "title": "New Resources Site",
+    "description": "A new look.",
+    "author": [
+      {
+        "name": "Michael Clark",
+        "url": "https://m-clark.github.io"
+      }
+    ],
+    "date": "2019-04-29",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-04-29T12:36:32-04:00"
+  }
+]

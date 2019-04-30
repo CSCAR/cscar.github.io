@@ -20,7 +20,7 @@ CSCAR does a lot of [workshops](http://cscar.research.umich.edu/events/category/
 
 [Kerby Shedden](https://kshedden.github.io/) Python, Go
 
-[Gregory Teichert]() Python, C++
+[Gregory Teichert](https://github.com/greght) Python, C++
 
 
 ## Data Science Skills Series

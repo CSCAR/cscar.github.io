@@ -38,7 +38,7 @@ base_url: https://cscar.github.io/
 collections:
   posts:
     creative_commons: CC BY-SA
-    share: [twitter, linkedin, facebook]
+    share: [twitter, linkedin, facebook, instagram]
     feed_items_max: 5
 output_dir: "."
 output: 

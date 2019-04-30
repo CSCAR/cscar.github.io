@@ -35,7 +35,10 @@ Andrew is a research applications developer with a background in artificial inte
 
 Kerby has collaborated with researchers in many areas of natural and social science, with a particular focus on studies involving high dimensional biological data, including genomics, biological imaging, statistical genetics, chemical informatics, health outcomes, and medical claims data. He also has extensive experience in software development, primarily in Python and Go.  His research focuses on computational statistics, and methods for modeling complex dependent data including multilevel, longitudinal, and spatial/temporal data.
 
-[Gregory Teichert]() &nbsp; Greg is a computational science applications specialist with a background in computational materials science. He has developed scientific software in C++ for modeling solid mechanics and phase field dynamics in materials, using the finite element method. He has experience with the computational libraries PETSc, Trilinos, deal.II, and PetIGA. His research has involved using machine learning techniques, including deep neural networks and the TensorFlow library, to learn free energy surfaces to predict material microstructure.
+
+[Gregory Teichert](https://github.com/greght) &nbsp; <img style='vertical-align:middle; width: 20px' src='https://avatars3.githubusercontent.com/u/5032194?s=400&v=4' >
+
+Greg is a computational science applications specialist with a background in computational materials science. He has developed scientific software in C++ for modeling solid mechanics and phase field dynamics in materials, using the finite element method. He has experience with the computational libraries PETSc, Trilinos, deal.II, and PetIGA. His research has involved using machine learning techniques, including deep neural networks and the TensorFlow library, to learn free energy surfaces to predict material microstructure.
 
 
 <br>

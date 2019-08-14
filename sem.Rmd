@@ -18,7 +18,7 @@ output:
 
 [Mplus website/forums](http://www.statmodel.com/cgi-bin/discus/discus.cgi?pg=topics)
 
-[Process](http://offbeat.group.shef.ac.uk/FIO/mplusmedmod.htm) Some clients ask about using Process scripts in SPSS, but these models are more flexibly engaged in SEM programs like Mplus, R, or even Amos within SPSS. This lists all of the processing models and then some for Mplus, which would easily translate to lavaan.
+[Process](http://offbeat.group.shef.ac.uk/FIO/mplusmedmod.htm) Some clients ask about using Process scripts in SPSS, but these models are more flexibly engaged in SEM programs like Mplus, R, or Stata. This lists all of the processing models and then some for Mplus, which would easily translate to lavaan.
 
 
 ### Stata

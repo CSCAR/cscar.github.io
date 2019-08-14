@@ -52,7 +52,7 @@ This is a list of sites etc. that have some resources statistics in general or f
 
 ## Structural Equation Modeling
 
-See the [SEM section](https://github.com/CSCAR/Resources/wiki/SEM).
+See the [SEM section](sem.html).
 
 
 ## Suveys

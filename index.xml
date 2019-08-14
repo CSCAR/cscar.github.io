@@ -12,13 +12,21 @@
       <link>https://cscar.github.io/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Workshops and more</title>
+      <dc:creator>Michael Clark</dc:creator>
+      <link>https://cscar.github.io/posts/2019-08</link>
+      <description>Upcoming workshops, model comparison</description>
+      <guid>https://cscar.github.io/posts/2019-08</guid>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>New Resources Site</title>
       <dc:creator>Michael Clark</dc:creator>
-      <link>https://cscar.github.io/posts</link>
+      <link>https://cscar.github.io/posts/2019-04</link>
       <description>A new look.</description>
-      <guid>https://cscar.github.io/posts</guid>
+      <guid>https://cscar.github.io/posts/2019-04</guid>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
     </item>
   </channel>

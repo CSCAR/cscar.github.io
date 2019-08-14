@@ -1,6 +1,21 @@
 [
   {
-    "path": "posts/",
+    "path": "posts/2019-08/",
+    "title": "Workshops and more",
+    "description": "Upcoming workshops, model comparison",
+    "author": [
+      {
+        "name": "Michael Clark",
+        "url": "https://m-clark.github.io"
+      }
+    ],
+    "date": "2019-08-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-08-14T10:19:44-04:00"
+  },
+  {
+    "path": "posts/2019-04/",
     "title": "New Resources Site",
     "description": "A new look.",
     "author": [

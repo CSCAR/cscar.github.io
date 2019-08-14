@@ -1,0 +1,25 @@
+---
+title: "Workshops and more"
+description: |
+  Upcoming workshops, model comparison
+author:
+  - name: Michael Clark 
+    url: https://m-clark.github.io
+    affiliation: CSCAR
+    affiliation_url: https://cscar.research.umich.edu/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Just a quick note to say that many workshops are on the way in the fall, so keep an eye out on [our calendar](https://cscar.research.umich.edu/events/category/workshops/).  Also, added a link to [our FAQ](https://cscar.github.io/statistics.html#miscellaneousfrequently-asked-questions) regarding model comparison.  How low does AIC have to be before accepting a model?
+
+
+
+
+
+

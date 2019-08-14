@@ -49,8 +49,6 @@ This is a list of sites etc. that have some resources statistics in general or f
 
 [When is complete case analysis unbiased?](http://thestatsgeek.com/2013/07/06/when-is-complete-case-analysis-unbiased/)
 
-<br>
-<br>
 
 ## Structural Equation Modeling
 
@@ -78,3 +76,5 @@ See the [SEM section](https://github.com/CSCAR/Resources/wiki/SEM).
 [How to Spot Visualization Lies](https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies/)
 
 [What are pseudo R-squareds?](https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-pseudo-r-squareds/) Describes how pseudo R-squareds come about, compares and contrasts the various versions, and describes their limitations.
+
+[How much lower should AIC be before I prefer that model?](https://stats.stackexchange.com/questions/232465/how-to-compare-models-on-the-basis-of-aic)

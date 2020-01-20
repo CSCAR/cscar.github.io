@@ -33,6 +33,8 @@ navbar:
         href: sem.html
       - text: SAS
         href: sas.html
+      - text: SPSS
+        href: spss.html
 favicon: img/favicon.ico
 base_url: https://cscar.github.io/
 collections:
@@ -41,7 +43,7 @@ collections:
     share: [twitter, linkedin, facebook, instagram]
     feed_items_max: 5
 output_dir: "."
-output: 
+output:
   distill::distill_article:
     css: cscar.css
 repository_url: https://github.com/CSCAR/cscar.github.io/

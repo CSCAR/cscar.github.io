@@ -1,0 +1,12 @@
+---
+title: SPSS Resources
+output:
+  distill::distill_article:
+    toc: true
+---
+
+## Learning SPSS
+
+### Web
+
+[SPSS Workshop](https://cscar.github.io/workshop-spss/): Notes for an Introduction to SPSS Workshop offered by CSCAR.

@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-01/",
+    "title": "Upcoming Events",
+    "description": "More things to come with CSCAR and beyond",
+    "author": [
+      {
+        "name": "Michael Clark",
+        "url": "https://m-clark.github.io"
+      }
+    ],
+    "date": "2020-01-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-01-27T16:05:19-05:00"
+  },
+  {
     "path": "posts/2019-08/",
     "title": "Workshops and more",
     "description": "Upcoming workshops, model comparison",
@@ -12,7 +27,7 @@
     "date": "2019-08-14",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-01-20T08:55:52-05:00"
+    "last_modified": "2019-08-14T10:19:44-04:00"
   },
   {
     "path": "posts/2019-04/",
@@ -27,6 +42,6 @@
     "date": "2019-04-29",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-01-20T08:55:52-05:00"
+    "last_modified": "2019-04-29T12:36:32-04:00"
   }
 ]

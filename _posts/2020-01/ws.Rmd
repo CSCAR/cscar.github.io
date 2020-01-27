@@ -1,0 +1,29 @@
+---
+title: "Upcoming Events"
+description: |
+  More things to come with CSCAR and beyond
+author:
+  - name: Michael Clark 
+    url: https://m-clark.github.io
+    affiliation: CSCAR
+    affiliation_url: https://cscar.research.umich.edu/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Take a look [our calendar](https://cscar.research.umich.edu/events/category/workshops/) for upcoming workshops.  The R series is underway, as well as the R by Example collection of talks.   Director Kerby Shedden outlines methodological approaches for Python, and we've given other workshops on Deep Learning, Julia, and more!
+
+Aside from that, you may also be interested in the [U-M Staff Data Scientists Meet-Up](https://midas.umich.edu/event/u-m-staff-data-scientists-meet-up/) and talks of the [MIDAS Seminar Series](https://midas.umich.edu/seminar-series/).
+
+We've also added a couple resources to our R, Stata, and SPSS pages.
+
+
+
+
+
+

@@ -18,6 +18,8 @@ CSCAR Consultant Michael Clark's [Workshops](https://m-clark.github.io/workshops
 
 [Comparison code to SAS, Stata, and SPSS (provided by CSCAR consultant Josh Errickson)](https://github.com/josherrickson/commoncode)
 
+
+
 ### Courses
 
 [Coursera](https://www.coursera.org/courses?languages=en&query=r)
@@ -28,6 +30,15 @@ CSCAR Consultant Michael Clark's [Workshops](https://m-clark.github.io/workshops
 ### Books
 
 [Use R series](http://mirlyn.lib.umich.edu/Search/Home?lookfor=%22%20Use%20R!%22&type=series) (link to UM library) 
+
+
+### Statistical Modeling
+
+[UCLA IDRE R resources](https://stats.idre.ucla.edu/r/)
+
+[Understanding Interactions](https://stats.idre.ucla.edu/r/seminars/interactions-r/)
+
+[Marginal Effects](https://errickson.net/marginsnotes/)
 
 
 
@@ -119,3 +130,7 @@ CSCAR Consultant Michael Clark's [Workshops](https://m-clark.github.io/workshops
 [RSeek](http://rseek.org/): for searching R on the web a little more efficiently
 
 [Rbloggers](http://www.r-bloggers.com/): see what other R users are doing
+
+
+
+

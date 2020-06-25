@@ -34,6 +34,7 @@ This is a list of sites etc. that have some resources statistics in general or f
 ## Machine learning
 
 [Statistical Learning Glossary](http://alumni.media.mit.edu/~tpminka/statlearn/glossary/glossary.html)
+
 ['Awesome list' of freebies](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
 
@@ -49,6 +50,7 @@ This is a list of sites etc. that have some resources statistics in general or f
 
 [When is complete case analysis unbiased?](http://thestatsgeek.com/2013/07/06/when-is-complete-case-analysis-unbiased/)
 
+[Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/) (Book) - terrific text covering all aspects of multiple imputation.
 
 ## Structural Equation Modeling
 

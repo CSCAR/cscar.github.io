@@ -9,6 +9,8 @@ output:
 
 ### Web
 
+[Stata Workshop](https://cscar.github.io/workshop-stata-intro/): Notes for an Introduction to Stata workshop offered by CSCAR.
+
 [Stata forums](http://www.statalist.org/forums): official Stata forums
 
 [Stata blog](http://blog.stata.com/): official Stata blog

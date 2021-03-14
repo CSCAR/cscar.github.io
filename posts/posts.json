@@ -11,8 +11,10 @@
     ],
     "date": "2020-01-27",
     "categories": [],
+    "contents": "\nTake a look our calendar for upcoming workshops. The R series is underway, as well as the R by Example collection of talks. Director Kerby Shedden outlines methodological approaches for Python, and we’ve given other workshops on Deep Learning, Julia, and more!\nAside from that, you may also be interested in the U-M Staff Data Scientists Meet-Up and talks of the MIDAS Seminar Series.\nWe’ve also added a couple resources to our R, Stata, and SPSS pages.\n\n\n",
     "preview": {},
-    "last_modified": "2020-01-27T16:05:19-05:00"
+    "last_modified": "2021-03-14T12:56:12-04:00",
+    "input_file": {}
   },
   {
     "path": "posts/2019-08/",
@@ -26,8 +28,10 @@
     ],
     "date": "2019-08-14",
     "categories": [],
+    "contents": "\nJust a quick note to say that many workshops are on the way in the fall, so keep an eye out on our calendar. Also, added a link to our FAQ regarding model comparison. How low does AIC have to be before accepting a model?\n\n\n",
     "preview": {},
-    "last_modified": "2019-08-14T10:19:44-04:00"
+    "last_modified": "2021-03-14T12:56:12-04:00",
+    "input_file": {}
   },
   {
     "path": "posts/2019-04/",
@@ -41,7 +45,9 @@
     ],
     "date": "2019-04-29",
     "categories": [],
+    "contents": "\nWe’ve revamped our resources website to make it both easier for us to add content and a little easier to use for clients. It uses the Distill format and R Markdown. Look for more content and demos here in the future.\n\n\n",
     "preview": {},
-    "last_modified": "2019-04-29T12:36:32-04:00"
+    "last_modified": "2021-03-14T12:56:12-04:00",
+    "input_file": {}
   }
 ]

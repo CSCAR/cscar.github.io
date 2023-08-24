@@ -28,13 +28,6 @@
     "text": "Comparing the three variance estimators: OLS, robust, and robust cluster\nMarginal Effects- Rich Williams notes- 1\nMarginal Effects- Rich Williams notes- 2\nMarginal Effects- Rich Williams notes- 3\nInteractions with logistic regression"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Consulting for Statistics, Computing & Analytics Research",
-    "section": "",
-    "text": "This is the resources site for CSCAR. For our main page, please visit https://cscar.research.umich.edu/."
-  },
-  {
     "objectID": "r.html",
     "href": "r.html",
     "title": "R",
@@ -84,13 +77,6 @@
     "text": "ggplot2\nplotly\nhtmlwidgets"
   },
   {
-    "objectID": "r.html#regular-expressions-in-r",
-    "href": "r.html#regular-expressions-in-r",
-    "title": "R",
-    "section": "",
-    "text": "via stringi package"
-  },
-  {
     "objectID": "r.html#high-performance-computing",
     "href": "r.html#high-performance-computing",
     "title": "R",
@@ -105,11 +91,74 @@
     "text": "Rstudio: Make your R efforts easier and expand them with the most popular IDE for R. Developers provide many useful packages as well.\nStackOverflow: Q & A tagged ‘R’\nRSeek: for searching R on the web a little more efficiently\nRbloggers: see what other R users are doing"
   },
   {
-    "objectID": "sas.html",
-    "href": "sas.html",
-    "title": "SAS",
+    "objectID": "python.html",
+    "href": "python.html",
+    "title": "Python",
     "section": "",
-    "text": "SAS"
+    "text": "CSCAR Workshops- Kerby Shedden\nCSCAR Workshops- Marcio Mourao\nCSCAR Workshops- Alex Cao\n100 Numpy Exercises\n\n\n\nPython for Data Analysis\n\n\n\n\nPandas\nStatsModels\nscikit-learn\n\n\n\nmatplotlib\nplotly\nbokeh\nseaborn\n\n\n\n\n\nAnaconda\n\n\n\nKeras"
+  },
+  {
+    "objectID": "python.html#learning-python",
+    "href": "python.html#learning-python",
+    "title": "Python",
+    "section": "",
+    "text": "CSCAR Workshops- Kerby Shedden\nCSCAR Workshops- Marcio Mourao\nCSCAR Workshops- Alex Cao\n100 Numpy Exercises\n\n\n\nPython for Data Analysis"
+  },
+  {
+    "objectID": "python.html#modules",
+    "href": "python.html#modules",
+    "title": "Python",
+    "section": "",
+    "text": "Pandas\nStatsModels\nscikit-learn"
+  },
+  {
+    "objectID": "python.html#visualization",
+    "href": "python.html#visualization",
+    "title": "Python",
+    "section": "",
+    "text": "matplotlib\nplotly\nbokeh\nseaborn"
+  },
+  {
+    "objectID": "python.html#other",
+    "href": "python.html#other",
+    "title": "Python",
+    "section": "",
+    "text": "Anaconda\n\n\n\nKeras"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshop Notes",
+    "section": "",
+    "text": "Workshop Notes\nCSCAR offers a number of workshops. Here are the notes for some of them:\nIntroduction to Stata\nIntroduction to SPSS"
+  },
+  {
+    "objectID": "sem.html",
+    "href": "sem.html",
+    "title": "SEM",
+    "section": "",
+    "text": "lavaan: popular SEM package in R (see the CSCAR workshop also)\nmediation\n\n\n\nMplus website/forums\nProcess Some clients ask about using Process scripts in SPSS, but these models are more flexibly engaged in SEM programs like Mplus, R, or Stata. This lists all of the processing models and then some for Mplus, which would easily translate to lavaan.\n\n\n\nSEM page\n\n\n\n\nCSCAR workshop: web notes for the workshop content and beyond\nPersonality Project: William Revelle’s site for psychometrics\n\n\nSample Size Requirements for Structural Equation Models Wolf et al. (2013)\nPower analysis and determination of sample size for covariance structure modeling MacCallum et al. (1996)\nweb tool http://www.quantpsy.org/\n\n\n\nStandardized coefficients greater than 1\n\n\n\n\nPrinciples and Practice of Structural Equation Modeling: classic guide\nLatent Variable Modeling using R: A Step-By-Step Guide: learn SEM in R\nDiscovering Structural Equation Modeling Using Stata"
+  },
+  {
+    "objectID": "sem.html#programming",
+    "href": "sem.html#programming",
+    "title": "SEM",
+    "section": "",
+    "text": "lavaan: popular SEM package in R (see the CSCAR workshop also)\nmediation\n\n\n\nMplus website/forums\nProcess Some clients ask about using Process scripts in SPSS, but these models are more flexibly engaged in SEM programs like Mplus, R, or Stata. This lists all of the processing models and then some for Mplus, which would easily translate to lavaan.\n\n\n\nSEM page"
+  },
+  {
+    "objectID": "sem.html#general",
+    "href": "sem.html#general",
+    "title": "SEM",
+    "section": "",
+    "text": "CSCAR workshop: web notes for the workshop content and beyond\nPersonality Project: William Revelle’s site for psychometrics\n\n\nSample Size Requirements for Structural Equation Models Wolf et al. (2013)\nPower analysis and determination of sample size for covariance structure modeling MacCallum et al. (1996)\nweb tool http://www.quantpsy.org/\n\n\n\nStandardized coefficients greater than 1"
+  },
+  {
+    "objectID": "sem.html#books",
+    "href": "sem.html#books",
+    "title": "SEM",
+    "section": "",
+    "text": "Principles and Practice of Structural Equation Modeling: classic guide\nLatent Variable Modeling using R: A Step-By-Step Guide: learn SEM in R\nDiscovering Structural Equation Modeling Using Stata"
   },
   {
     "objectID": "matlab.html",
@@ -154,39 +203,18 @@
     "text": "MATLAB Products"
   },
   {
-    "objectID": "python.html",
-    "href": "python.html",
-    "title": "Python",
+    "objectID": "sas.html",
+    "href": "sas.html",
+    "title": "SAS",
     "section": "",
-    "text": "CSCAR Workshops- Kerby Shedden\nCSCAR Workshops- Marcio Mourao\nCSCAR Workshops- Alex Cao\n100 Numpy Exercises\n\n\n\nPython for Data Analysis\n\n\n\n\nPandas\nStatsModels\nscikit-learn\n\n\n\nmatplotlib\nplotly\nbokeh\nseaborn\n\n\n\n\n\nAnaconda\n\n\n\nKeras"
+    "text": "SAS"
   },
   {
-    "objectID": "python.html#learning-python",
-    "href": "python.html#learning-python",
-    "title": "Python",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Consulting for Statistics, Computing & Analytics Research",
     "section": "",
-    "text": "CSCAR Workshops- Kerby Shedden\nCSCAR Workshops- Marcio Mourao\nCSCAR Workshops- Alex Cao\n100 Numpy Exercises\n\n\n\nPython for Data Analysis"
-  },
-  {
-    "objectID": "python.html#modules",
-    "href": "python.html#modules",
-    "title": "Python",
-    "section": "",
-    "text": "Pandas\nStatsModels\nscikit-learn"
-  },
-  {
-    "objectID": "python.html#visualization",
-    "href": "python.html#visualization",
-    "title": "Python",
-    "section": "",
-    "text": "matplotlib\nplotly\nbokeh\nseaborn"
-  },
-  {
-    "objectID": "python.html#other",
-    "href": "python.html#other",
-    "title": "Python",
-    "section": "",
-    "text": "Anaconda\n\n\n\nKeras"
+    "text": "This is the resources site for CSCAR. For our main page, please visit https://cscar.research.umich.edu/.\nTo send a support email, please email stats-consulting@umich.edu.\nTo schedule a consultation, please email deskpeople@umich.edu."
   },
   {
     "objectID": "statistics.html",
@@ -257,40 +285,5 @@
     "title": "General Statistical Resources",
     "section": "",
     "text": "Oh no I got the wrong sign\nFactor Analysis vs. Principal Component Analysis\nChange scores vs. ANCOVA\nProblems Caused by Categorizing Continuous Variables\nHow to Spot Visualization Lies\nWhat are pseudo R-squareds? Describes how pseudo R-squareds come about, compares and contrasts the various versions, and describes their limitations.\nHow much lower should AIC be before I prefer that model?"
-  },
-  {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Workshop Notes",
-    "section": "",
-    "text": "Workshop Notes\nCSCAR offers a number of workshops. Here are the notes for some of them:\nIntroduction to Stata\nIntroduction to SPSS"
-  },
-  {
-    "objectID": "sem.html",
-    "href": "sem.html",
-    "title": "SEM",
-    "section": "",
-    "text": "lavaan: popular SEM package in R (see the CSCAR workshop also)\nmediation\n\n\n\nMplus website/forums\nProcess Some clients ask about using Process scripts in SPSS, but these models are more flexibly engaged in SEM programs like Mplus, R, or Stata. This lists all of the processing models and then some for Mplus, which would easily translate to lavaan.\n\n\n\nSEM page\n\n\n\n\nCSCAR workshop: web notes for the workshop content and beyond\nPersonality Project: William Revelle’s site for psychometrics\n\n\nSample Size Requirements for Structural Equation Models Wolf et al. (2013)\nPower analysis and determination of sample size for covariance structure modeling MacCallum et al. (1996)\nweb tool http://www.quantpsy.org/\n\n\n\nStandardized coefficients greater than 1\n\n\n\n\nPrinciples and Practice of Structural Equation Modeling: classic guide\nLatent Variable Modeling using R: A Step-By-Step Guide: learn SEM in R\nDiscovering Structural Equation Modeling Using Stata"
-  },
-  {
-    "objectID": "sem.html#programming",
-    "href": "sem.html#programming",
-    "title": "SEM",
-    "section": "",
-    "text": "lavaan: popular SEM package in R (see the CSCAR workshop also)\nmediation\n\n\n\nMplus website/forums\nProcess Some clients ask about using Process scripts in SPSS, but these models are more flexibly engaged in SEM programs like Mplus, R, or Stata. This lists all of the processing models and then some for Mplus, which would easily translate to lavaan.\n\n\n\nSEM page"
-  },
-  {
-    "objectID": "sem.html#general",
-    "href": "sem.html#general",
-    "title": "SEM",
-    "section": "",
-    "text": "CSCAR workshop: web notes for the workshop content and beyond\nPersonality Project: William Revelle’s site for psychometrics\n\n\nSample Size Requirements for Structural Equation Models Wolf et al. (2013)\nPower analysis and determination of sample size for covariance structure modeling MacCallum et al. (1996)\nweb tool http://www.quantpsy.org/\n\n\n\nStandardized coefficients greater than 1"
-  },
-  {
-    "objectID": "sem.html#books",
-    "href": "sem.html#books",
-    "title": "SEM",
-    "section": "",
-    "text": "Principles and Practice of Structural Equation Modeling: classic guide\nLatent Variable Modeling using R: A Step-By-Step Guide: learn SEM in R\nDiscovering Structural Equation Modeling Using Stata"
   }
 ]

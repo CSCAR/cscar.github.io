@@ -6,3 +6,7 @@ title: "Consulting for Statistics, Computing & Analytics Research"
 
 This is the resources site for CSCAR. For our main page, please visit
 <https://cscar.research.umich.edu/>.
+
+To send a support email, please email <stats-consulting@umich.edu>.
+
+To schedule a consultation, please email <deskpeople@umich.edu>.

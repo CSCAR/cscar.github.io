@@ -1,0 +1,296 @@
+[
+  {
+    "objectID": "stata.html",
+    "href": "stata.html",
+    "title": "Stata",
+    "section": "",
+    "text": "Stata forums: official Stata forums\nStata blog: official Stata blog\nStackOverflow: Q & A for Stata\nStata/MP Performance Report: Stata/MP is the multicore version of Stata available on FLUX. Particularly of interest is the table starting on page 17 which lists commands and how parallelized they are.\nInternet Guide to Stata: A good way to get started with Stata modeling basics and more.\nSocial Science Computing Cooperative: Various articles from basic to intermediate topics.\n\n\n\nStata Press\n\n\n\nComparing the three variance estimators: OLS, robust, and robust cluster\nMarginal Effects- Rich Williams notes- 1\nMarginal Effects- Rich Williams notes- 2\nMarginal Effects- Rich Williams notes- 3\nInteractions with logistic regression"
+  },
+  {
+    "objectID": "stata.html#web",
+    "href": "stata.html#web",
+    "title": "Stata",
+    "section": "",
+    "text": "Stata forums: official Stata forums\nStata blog: official Stata blog\nStackOverflow: Q & A for Stata\nStata/MP Performance Report: Stata/MP is the multicore version of Stata available on FLUX. Particularly of interest is the table starting on page 17 which lists commands and how parallelized they are.\nInternet Guide to Stata: A good way to get started with Stata modeling basics and more.\nSocial Science Computing Cooperative: Various articles from basic to intermediate topics."
+  },
+  {
+    "objectID": "stata.html#books",
+    "href": "stata.html#books",
+    "title": "Stata",
+    "section": "",
+    "text": "Stata Press"
+  },
+  {
+    "objectID": "stata.html#other",
+    "href": "stata.html#other",
+    "title": "Stata",
+    "section": "",
+    "text": "Comparing the three variance estimators: OLS, robust, and robust cluster\nMarginal Effects- Rich Williams notes- 1\nMarginal Effects- Rich Williams notes- 2\nMarginal Effects- Rich Williams notes- 3\nInteractions with logistic regression"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Consulting for Statistics, Computing & Analytics Research",
+    "section": "",
+    "text": "This is the resources site for CSCAR. For our main page, please visit https://cscar.research.umich.edu/."
+  },
+  {
+    "objectID": "r.html",
+    "href": "r.html",
+    "title": "R",
+    "section": "",
+    "text": "Swirl\nR example repository\nFormer CSCAR Consultant Michael Clark’s Workshops and Documents (all R-oriented, but some may be more conceptual)\n\n\n\nCoursera\n\n\n\nUse R series (link to UM library)\n\n\n\nUCLA IDRE R resources\nUnderstanding Interactions\nMarginal Effects\n\n\n\nPosit pacakges: some of the most popular packages out there\nRStart: useful, well-documented, well-coded packages\nR Documentation: perhaps a little more user friendly than the task views. Easy search.\nMetacran: another searchable database of R packages.\nCRAN Task Views: packages organized by topic at the R website.\nRopensci: Open Tools for Open Science\nTidyverse: an overview of Hadley Wickham’s packages and related.\n\n\n\nggplot2\nplotly\nhtmlwidgets\n\n\n\nTask View on HPC\n\n\ndata.table::fread\nreadr\nfeather\n\n\n\ndplyr, multidplyr\ndata.table\n\n\n\nRcpp\nrJava\n\n\n\nparallel\nforeach\npartools\n\n\n\nprofVis\n\n\n\n\nRstudio: Make your R efforts easier and expand them with the most popular IDE for R. Developers provide many useful packages as well.\nStackOverflow: Q & A tagged ‘R’\nRSeek: for searching R on the web a little more efficiently\nRbloggers: see what other R users are doing"
+  },
+  {
+    "objectID": "r.html#web",
+    "href": "r.html#web",
+    "title": "R",
+    "section": "",
+    "text": "Swirl\nR example repository\nFormer CSCAR Consultant Michael Clark’s Workshops and Documents (all R-oriented, but some may be more conceptual)"
+  },
+  {
+    "objectID": "r.html#courses",
+    "href": "r.html#courses",
+    "title": "R",
+    "section": "",
+    "text": "Coursera"
+  },
+  {
+    "objectID": "r.html#books",
+    "href": "r.html#books",
+    "title": "R",
+    "section": "",
+    "text": "Use R series (link to UM library)"
+  },
+  {
+    "objectID": "r.html#statistical-modeling",
+    "href": "r.html#statistical-modeling",
+    "title": "R",
+    "section": "",
+    "text": "UCLA IDRE R resources\nUnderstanding Interactions\nMarginal Effects"
+  },
+  {
+    "objectID": "r.html#packages",
+    "href": "r.html#packages",
+    "title": "R",
+    "section": "",
+    "text": "Posit pacakges: some of the most popular packages out there\nRStart: useful, well-documented, well-coded packages\nR Documentation: perhaps a little more user friendly than the task views. Easy search.\nMetacran: another searchable database of R packages.\nCRAN Task Views: packages organized by topic at the R website.\nRopensci: Open Tools for Open Science\nTidyverse: an overview of Hadley Wickham’s packages and related."
+  },
+  {
+    "objectID": "r.html#visualization",
+    "href": "r.html#visualization",
+    "title": "R",
+    "section": "",
+    "text": "ggplot2\nplotly\nhtmlwidgets"
+  },
+  {
+    "objectID": "r.html#regular-expressions-in-r",
+    "href": "r.html#regular-expressions-in-r",
+    "title": "R",
+    "section": "",
+    "text": "via stringi package"
+  },
+  {
+    "objectID": "r.html#high-performance-computing",
+    "href": "r.html#high-performance-computing",
+    "title": "R",
+    "section": "",
+    "text": "Task View on HPC\n\n\ndata.table::fread\nreadr\nfeather\n\n\n\ndplyr, multidplyr\ndata.table\n\n\n\nRcpp\nrJava\n\n\n\nparallel\nforeach\npartools\n\n\n\nprofVis"
+  },
+  {
+    "objectID": "r.html#other",
+    "href": "r.html#other",
+    "title": "R",
+    "section": "",
+    "text": "Rstudio: Make your R efforts easier and expand them with the most popular IDE for R. Developers provide many useful packages as well.\nStackOverflow: Q & A tagged ‘R’\nRSeek: for searching R on the web a little more efficiently\nRbloggers: see what other R users are doing"
+  },
+  {
+    "objectID": "sas.html",
+    "href": "sas.html",
+    "title": "SAS",
+    "section": "",
+    "text": "SAS"
+  },
+  {
+    "objectID": "matlab.html",
+    "href": "matlab.html",
+    "title": "MATLAB",
+    "section": "",
+    "text": "Learn MATLAB and Simulink Basics\nCSCAR : Introduction to MATLAB Workshop - Part I\nCSCAR : Introduction to MATLAB Workshop - Part II\n\n\n\nMATLAB Primer\n\n\n\nStatistics and Machine Learning Toolbox\nImage Processing Toolbox\nComputer Vision System Toolbox\n\n\n\nGraphics\n\n\n\nMATLAB Products"
+  },
+  {
+    "objectID": "matlab.html#web",
+    "href": "matlab.html#web",
+    "title": "MATLAB",
+    "section": "",
+    "text": "Learn MATLAB and Simulink Basics\nCSCAR : Introduction to MATLAB Workshop - Part I\nCSCAR : Introduction to MATLAB Workshop - Part II"
+  },
+  {
+    "objectID": "matlab.html#books",
+    "href": "matlab.html#books",
+    "title": "MATLAB",
+    "section": "",
+    "text": "MATLAB Primer"
+  },
+  {
+    "objectID": "matlab.html#modules",
+    "href": "matlab.html#modules",
+    "title": "MATLAB",
+    "section": "",
+    "text": "Statistics and Machine Learning Toolbox\nImage Processing Toolbox\nComputer Vision System Toolbox"
+  },
+  {
+    "objectID": "matlab.html#visualization",
+    "href": "matlab.html#visualization",
+    "title": "MATLAB",
+    "section": "",
+    "text": "Graphics"
+  },
+  {
+    "objectID": "matlab.html#others",
+    "href": "matlab.html#others",
+    "title": "MATLAB",
+    "section": "",
+    "text": "MATLAB Products"
+  },
+  {
+    "objectID": "python.html",
+    "href": "python.html",
+    "title": "Python",
+    "section": "",
+    "text": "CSCAR Workshops- Kerby Shedden\nCSCAR Workshops- Marcio Mourao\nCSCAR Workshops- Alex Cao\n100 Numpy Exercises\n\n\n\nPython for Data Analysis\n\n\n\n\nPandas\nStatsModels\nscikit-learn\n\n\n\nmatplotlib\nplotly\nbokeh\nseaborn\n\n\n\n\n\nAnaconda\n\n\n\nKeras"
+  },
+  {
+    "objectID": "python.html#learning-python",
+    "href": "python.html#learning-python",
+    "title": "Python",
+    "section": "",
+    "text": "CSCAR Workshops- Kerby Shedden\nCSCAR Workshops- Marcio Mourao\nCSCAR Workshops- Alex Cao\n100 Numpy Exercises\n\n\n\nPython for Data Analysis"
+  },
+  {
+    "objectID": "python.html#modules",
+    "href": "python.html#modules",
+    "title": "Python",
+    "section": "",
+    "text": "Pandas\nStatsModels\nscikit-learn"
+  },
+  {
+    "objectID": "python.html#visualization",
+    "href": "python.html#visualization",
+    "title": "Python",
+    "section": "",
+    "text": "matplotlib\nplotly\nbokeh\nseaborn"
+  },
+  {
+    "objectID": "python.html#other",
+    "href": "python.html#other",
+    "title": "Python",
+    "section": "",
+    "text": "Anaconda\n\n\n\nKeras"
+  },
+  {
+    "objectID": "statistics.html",
+    "href": "statistics.html",
+    "title": "General Statistical Resources",
+    "section": "",
+    "text": "This is a list of sites etc. that have some resources statistics in general or for multiple statistical programs or programming languages. For specific programs, see the program-specific wiki page.\n\n\nCross-validated: question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization.\n\n\n\nUCLA ARC\nPrinceton dss\n\n\n\nHierarchical Model Visualization\nMixed Model FAQ\n\n\n\nStatistical Learning Glossary\n‘Awesome list’ of freebies\n\n\n\nEffect Size Conventions Some notes on choices of small vs large effect sizes for use in power calculations.\nBeyond Significance Testing Rex Kline’s text on issues with significance testing, how to do power calculations, and calculate effect size in a variety of settings.\n\n\n\nWhen is complete case analysis unbiased?\nFlexible Imputation of Missing Data (Book) - terrific text covering all aspects of multiple imputation.\n\n\n\nSee the SEM section.\n\n\n\nHow Big of a Problem is Analytic Error in Secondary Analyses of Survey Data? West et al. (2016)\n\n\n\nOh no I got the wrong sign\nFactor Analysis vs. Principal Component Analysis\nChange scores vs. ANCOVA\nProblems Caused by Categorizing Continuous Variables\nHow to Spot Visualization Lies\nWhat are pseudo R-squareds? Describes how pseudo R-squareds come about, compares and contrasts the various versions, and describes their limitations.\nHow much lower should AIC be before I prefer that model?"
+  },
+  {
+    "objectID": "statistics.html#general",
+    "href": "statistics.html#general",
+    "title": "General Statistical Resources",
+    "section": "",
+    "text": "Cross-validated: question and answer site for people interested in statistics, machine learning, data analysis, data mining, and data visualization."
+  },
+  {
+    "objectID": "statistics.html#statistical-programming",
+    "href": "statistics.html#statistical-programming",
+    "title": "General Statistical Resources",
+    "section": "",
+    "text": "UCLA ARC\nPrinceton dss"
+  },
+  {
+    "objectID": "statistics.html#mixed-models",
+    "href": "statistics.html#mixed-models",
+    "title": "General Statistical Resources",
+    "section": "",
+    "text": "Hierarchical Model Visualization\nMixed Model FAQ"
+  },
+  {
+    "objectID": "statistics.html#machine-learning",
+    "href": "statistics.html#machine-learning",
+    "title": "General Statistical Resources",
+    "section": "",
+    "text": "Statistical Learning Glossary\n‘Awesome list’ of freebies"
+  },
+  {
+    "objectID": "statistics.html#power-calculations",
+    "href": "statistics.html#power-calculations",
+    "title": "General Statistical Resources",
+    "section": "",
+    "text": "Effect Size Conventions Some notes on choices of small vs large effect sizes for use in power calculations.\nBeyond Significance Testing Rex Kline’s text on issues with significance testing, how to do power calculations, and calculate effect size in a variety of settings."
+  },
+  {
+    "objectID": "statistics.html#missing-data",
+    "href": "statistics.html#missing-data",
+    "title": "General Statistical Resources",
+    "section": "",
+    "text": "When is complete case analysis unbiased?\nFlexible Imputation of Missing Data (Book) - terrific text covering all aspects of multiple imputation."
+  },
+  {
+    "objectID": "statistics.html#structural-equation-modeling",
+    "href": "statistics.html#structural-equation-modeling",
+    "title": "General Statistical Resources",
+    "section": "",
+    "text": "See the SEM section."
+  },
+  {
+    "objectID": "statistics.html#suveys",
+    "href": "statistics.html#suveys",
+    "title": "General Statistical Resources",
+    "section": "",
+    "text": "How Big of a Problem is Analytic Error in Secondary Analyses of Survey Data? West et al. (2016)"
+  },
+  {
+    "objectID": "statistics.html#miscellaneousfrequently-asked-questions",
+    "href": "statistics.html#miscellaneousfrequently-asked-questions",
+    "title": "General Statistical Resources",
+    "section": "",
+    "text": "Oh no I got the wrong sign\nFactor Analysis vs. Principal Component Analysis\nChange scores vs. ANCOVA\nProblems Caused by Categorizing Continuous Variables\nHow to Spot Visualization Lies\nWhat are pseudo R-squareds? Describes how pseudo R-squareds come about, compares and contrasts the various versions, and describes their limitations.\nHow much lower should AIC be before I prefer that model?"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshop Notes",
+    "section": "",
+    "text": "Workshop Notes\nCSCAR offers a number of workshops. Here are the notes for some of them:\nIntroduction to Stata\nIntroduction to SPSS"
+  },
+  {
+    "objectID": "sem.html",
+    "href": "sem.html",
+    "title": "SEM",
+    "section": "",
+    "text": "lavaan: popular SEM package in R (see the CSCAR workshop also)\nmediation\n\n\n\nMplus website/forums\nProcess Some clients ask about using Process scripts in SPSS, but these models are more flexibly engaged in SEM programs like Mplus, R, or Stata. This lists all of the processing models and then some for Mplus, which would easily translate to lavaan.\n\n\n\nSEM page\n\n\n\n\nCSCAR workshop: web notes for the workshop content and beyond\nPersonality Project: William Revelle’s site for psychometrics\n\n\nSample Size Requirements for Structural Equation Models Wolf et al. (2013)\nPower analysis and determination of sample size for covariance structure modeling MacCallum et al. (1996)\nweb tool http://www.quantpsy.org/\n\n\n\nStandardized coefficients greater than 1\n\n\n\n\nPrinciples and Practice of Structural Equation Modeling: classic guide\nLatent Variable Modeling using R: A Step-By-Step Guide: learn SEM in R\nDiscovering Structural Equation Modeling Using Stata"
+  },
+  {
+    "objectID": "sem.html#programming",
+    "href": "sem.html#programming",
+    "title": "SEM",
+    "section": "",
+    "text": "lavaan: popular SEM package in R (see the CSCAR workshop also)\nmediation\n\n\n\nMplus website/forums\nProcess Some clients ask about using Process scripts in SPSS, but these models are more flexibly engaged in SEM programs like Mplus, R, or Stata. This lists all of the processing models and then some for Mplus, which would easily translate to lavaan.\n\n\n\nSEM page"
+  },
+  {
+    "objectID": "sem.html#general",
+    "href": "sem.html#general",
+    "title": "SEM",
+    "section": "",
+    "text": "CSCAR workshop: web notes for the workshop content and beyond\nPersonality Project: William Revelle’s site for psychometrics\n\n\nSample Size Requirements for Structural Equation Models Wolf et al. (2013)\nPower analysis and determination of sample size for covariance structure modeling MacCallum et al. (1996)\nweb tool http://www.quantpsy.org/\n\n\n\nStandardized coefficients greater than 1"
+  },
+  {
+    "objectID": "sem.html#books",
+    "href": "sem.html#books",
+    "title": "SEM",
+    "section": "",
+    "text": "Principles and Practice of Structural Equation Modeling: classic guide\nLatent Variable Modeling using R: A Step-By-Step Guide: learn SEM in R\nDiscovering Structural Equation Modeling Using Stata"
+  }
+]

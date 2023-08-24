@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "CSCAR"
+  favicon: img/favicon.ico
+  search: false
+  navbar:
+    background: "#00274C"
+    logo: images/signature-social.png
+    logo-alt: "CSCAR logo"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: workshops.qmd
+      - text: "Resources"
+        menu:
+          - statistics.qmd
+          - r.qmd
+          - stata.qmd
+          #- sas.qmd
+          - python.qmd
+          - matlab.qmd
+          - sem.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: cscar.css
+    toc: true

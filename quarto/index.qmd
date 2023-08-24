@@ -1,0 +1,8 @@
+---
+title: "Consulting for Statistics, Computing & Analytics Research"
+---
+
+![](images/signature-vertical-informal.png){fig-align="center" width=30%}
+
+This is the resources site for CSCAR. For our main page, please visit
+<https://cscar.research.umich.edu/>.

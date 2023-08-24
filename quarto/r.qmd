@@ -1,0 +1,110 @@
+# R
+
+## Web
+
+[Swirl](http://swirlstats.com/)
+
+[R example repository](http://www.dwoll.de/rexrepos/)
+
+Former CSCAR Consultant Michael Clark's
+[Workshops](https://m-clark.github.io/workshops) and
+[Documents](https://m-clark.github.io/documents) (all R-oriented, but some may
+be more conceptual)
+
+
+
+## Courses
+
+[Coursera](https://www.coursera.org/courses?languages=en&query=r)
+
+
+## Books
+
+[Use R series](http://mirlyn.lib.umich.edu/Search/Home?lookfor=%22%20Use%20R!%22&type=series) (link to UM library)
+
+
+## Statistical Modeling
+
+[UCLA IDRE R resources](https://stats.idre.ucla.edu/r/)
+
+[Understanding Interactions](https://stats.idre.ucla.edu/r/seminars/interactions-r/)
+
+[Marginal Effects](https://errickson.net/marginsnotes/)
+
+
+
+## Packages
+
+[Posit pacakges](https://posit.co/products/open-source/rpackages/): some of the most popular packages out there
+
+[RStart](https://github.com/rstudio/RStartHere): useful, well-documented, well-coded packages
+
+[R Documentation](http://www.rdocumentation.org/): perhaps a little more user friendly than the task views. Easy search.
+
+[Metacran](https://www.r-pkg.org/): another searchable database of R packages.
+
+[CRAN Task Views](https://cran.r-project.org/web/views/): packages organized by topic at the R website.
+
+[Ropensci](https://ropensci.org/): Open Tools for Open Science
+
+[Tidyverse](http://tidyverse.org/): an overview of Hadley Wickham's packages and related.
+
+
+## Visualization
+
+[ggplot2](http://ggplot2.tidyverse.org/index.html)
+
+[plotly](https://plotly.com/r/)
+
+[htmlwidgets](http://www.htmlwidgets.org/)
+
+
+## High Performance Computing
+[Task View on HPC](https://cran.r-project.org/web/views/HighPerformanceComputing.html)
+
+
+### I/O
+
+[data.table::fread](https://CRAN.R-project.org/package=data.table)
+
+[readr](https://CRAN.R-project.org/package=readr)
+
+[feather](https://github.com/wesm/feather/tree/master/R)
+
+
+### Data frames and their operations
+
+[dplyr](https://CRAN.R-project.org/package=dplyr), [multidplyr](https://github.com/hadley/multidplyr)
+
+[data.table](https://CRAN.R-project.org/package=data.table)
+
+
+### Integration
+
+[Rcpp](https://CRAN.R-project.org/package=Rcpp)
+
+[rJava](https://CRAN.R-project.org/package=rJava)
+
+
+### parallel
+
+[parallel](https://CRAN.R-project.org/package=data.table)
+
+[foreach](https://CRAN.R-project.org/package=foreach)
+
+[partools](https://CRAN.R-project.org/package=partools)
+
+
+### profiling
+
+[profVis](https://CRAN.R-project.org/package=profvis)
+
+## Other
+
+[Rstudio](https://posit.co/products/open-source/rstudio/): Make your R efforts easier and expand them with the most popular IDE for R. Developers provide many useful packages as well.
+
+[StackOverflow](http://stackoverflow.com/questions/tagged/r): Q & A tagged **'R'**
+
+[RSeek](http://rseek.org/): for searching R on the web a little more efficiently
+
+[Rbloggers](http://www.r-bloggers.com/): see what other R users are doing

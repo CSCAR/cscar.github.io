@@ -1,0 +1,7 @@
+# Workshop Notes
+
+CSCAR offers a number of workshops. Here are the notes for some of them:
+
+[Introduction to Stata](https://cscar.github.io/workshop-stata-intro)
+
+[Introduction to SPSS](https://cscar.github.io/workshop-spss)
